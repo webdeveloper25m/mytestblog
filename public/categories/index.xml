@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My Blog</title>
+    <link>https://hugo101.netlify.com/categories/</link>
+    <description>Recent content in Categories on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2019 07:13:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://hugo101.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud Solutions</title>
+      <link>https://hugo101.netlify.com/categories/cloud-solutions/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>https://hugo101.netlify.com/categories/cloud-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>https://hugo101.netlify.com/categories/networking/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>https://hugo101.netlify.com/categories/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traning</title>
+      <link>https://hugo101.netlify.com/categories/traning/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>https://hugo101.netlify.com/categories/traning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
